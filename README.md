@@ -14,4 +14,4 @@ The following libraries are contained here:
 
 ### Disclaimer
 
-By no means am I claiming copyright on any of these libraries. As previously explained, the header files and compiled binaries are just here to ease development.
+By no means am I claiming copyright on any of these libraries. As previously explained, the header files and compiled binaries are just here to ease development. I have not modified the source-code or binaries of external libraries.
