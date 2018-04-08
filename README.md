@@ -11,6 +11,8 @@ The following libraries are contained here:
 * libonionspi ([from OnionIoT](https://github.com/OnionIoT/spi-gpio-driver))
 * libili9225 (my own library [here](https://github.com/gamer-cndg/omega2-ili9225))
 * libwiiclassic (my own library [here](https://github.com/gamer-cndg/omega2-wii-classic-controller/))
+* libgamepad (from [here](https://github.com/elanthis/gamepad))
+* libudev, libevdev, libncurses from the current LEDE branch
 
 ### Disclaimer
 
